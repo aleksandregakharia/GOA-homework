@@ -1,6 +1,6 @@
 
 # ar mqonda saklaso davaleba
 
-print("aleqsi")
+print("aleqsi gakharia") 
 
-print("47")
+

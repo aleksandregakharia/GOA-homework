@@ -28,3 +28,15 @@ print(name6)
 
 name_age = input("chaweret romel welshi cxovrobt da ramdeni wlis xart")
 print(name_age)
+
+
+# კომენტარების სახით ახსენი snake_case და camelCase
+
+# snace_case sityvebs shoris sawiroa _
+#camelcase meore sityva unda iwebodes didi asoti
+
+
+# დაწერეთ ცვლადის სწორი და ცვლადის არასწორი შექმნსი გზები
+
+# arasworia rodesac cvladi iwyeba cifrit an ricxvit
+# sworia rodesac ricxvi pirveli asos shemdegaa da meore da pirvel sityvas shoris aris _
